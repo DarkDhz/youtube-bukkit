@@ -1,0 +1,7 @@
+name: prueba
+version: 1.0
+main: mc.virtualplanet.es.serie.Main
+commands:
+  test:
+    usage: /<command>
+    aliases: [hola, adios]
